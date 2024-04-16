@@ -288,7 +288,7 @@ As an avid learner and enthusiast in the blockchain space, I am committed to bui
 
 Join me on this journey and let's collaborate to create groundbreaking and transformative projects that will shape the future of the blockchain industry. Together, we can unlock the full potential of blockchain technology and pave the way for a more connected and decentralized world. Let's build a brighter future for blockchain, together.
 
-### Conclusion
+### 🌟 Conclusion
 
 The UTXO Management Project is designed to provide a comprehensive suite of utilities to facilitate efficient handling of Bitcoin transactions, ideally suited for developers and organizations involved in cryptocurrency management. By utilizing the `split`, `merge`, and `send` scripts, users can optimize their transaction processes, whether for enhancing privacy, simplifying wallet management, or executing precise fund transfers.
 
